@@ -9,6 +9,8 @@ import {GlobalProvider} from './context/GlobalState';
 //https://www.youtube.com/watch?v=XuFDcZABiDQ&t=2351s
 //https://www.youtube.com/watch?v=KyWaXA_NvT0
 
+
+
 function App() {
   return (
     <GlobalProvider>
